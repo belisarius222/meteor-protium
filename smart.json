@@ -1,0 +1,9 @@
+{
+  "name": "protium",
+  "description": "jQuery-isotope for Meteor (including centered masonry)",
+  "homepage": "https://github.com/belisarius222/meteor-protium",
+  "author": "Ted Blackman <ted.blackman@gmail.com>",
+  "version": "1.5.25",
+  "git": "https://github.com/belisarius222/meteor-protium.git",
+  "packages": {}
+}
